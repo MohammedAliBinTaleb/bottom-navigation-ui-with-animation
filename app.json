@@ -1,0 +1,12 @@
+{
+  "name": "mybottomNaviagtion",
+  "displayName": "mybottomNaviagtion",
+  "expo": {
+    "name": "mybottomNaviagtion",
+    "slug": "mybottomNaviagtion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
